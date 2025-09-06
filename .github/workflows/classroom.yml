@@ -19,7 +19,7 @@ jobs:
       with:
         test-name: convert-10kg-to-pounds
         setup-command: ''
-        command: python3 main.pypython3 main.py
+        command: python3 main.py
         input: 10kg
         expected-output: 对应的英制重量为22.046磅
         comparison-method: exact
