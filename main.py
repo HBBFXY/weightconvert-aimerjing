@@ -1,5 +1,4 @@
 # 在这个文件下编写代码，题目具体要求见README.md文件
-# main.py（正确适配测试的代码）
 weight = input().strip()  # 直接读取测试用例传入的输入（无提示语）
 
 if weight == "10kg":
